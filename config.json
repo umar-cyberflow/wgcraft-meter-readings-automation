@@ -1,0 +1,10 @@
+{
+  "start_increment": 4,
+  "max_increment": null,
+  "safety_stop": 500,
+  "test_count": 3,
+  "wait_seconds": 15,
+  "step_delay": 0.8,
+  "reading_date": null,
+  "only_visible_rows": true
+}

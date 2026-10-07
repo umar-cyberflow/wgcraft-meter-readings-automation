@@ -1,0 +1,11 @@
+.env
+env
+reports/
+excel/
+__pycache__/
+*.pyc
+*.xls
+*.xlsx
+!examples/demo_accounts.xlsx
+.venv/
+venv/
